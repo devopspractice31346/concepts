@@ -8,3 +8,4 @@ read second_number
 sum=$(($first_number + $second_number))
 
 echo "Sum of $first_number and $second_number: "$sum
+echo "Thank you"
